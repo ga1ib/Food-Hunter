@@ -1,0 +1,10 @@
+<svg width="200" height="60" viewBox="0 0 200 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Leaf icon -->
+  <path d="M30 15C30 15 20 20 15 30C10 40 12 50 20 52C28 54 35 48 38 40C41 32 40 20 30 15Z" fill="#22c55e" stroke="#16a34a" stroke-width="2"/>
+  <path d="M30 15C30 15 40 20 45 30C50 40 48 50 40 52C32 54 25 48 22 40C19 32 20 20 30 15Z" fill="#86efac" stroke="#22c55e" stroke-width="2"/>
+  <path d="M30 15L30 52" stroke="#16a34a" stroke-width="2" stroke-linecap="round"/>
+  
+  <!-- Text -->
+  <text x="60" y="38" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1f2937">Food Hunter</text>
+</svg>
+

@@ -1,0 +1,20 @@
+<svg width="1920" height="1080" viewBox="0 0 1920 1080" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Gradient background -->
+  <defs>
+    <linearGradient id="heroGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f0fdf4;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#dcfce7;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="1920" height="1080" fill="url(#heroGrad)"/>
+  
+  <!-- Decorative farm elements -->
+  <circle cx="1600" cy="200" r="150" fill="#86efac" opacity="0.3"/>
+  <circle cx="300" cy="800" r="200" fill="#22c55e" opacity="0.2"/>
+  <circle cx="1400" cy="900" r="100" fill="#4ade80" opacity="0.25"/>
+  
+  <!-- Abstract plant shapes -->
+  <path d="M100 900 Q150 800 200 900" stroke="#16a34a" stroke-width="3" fill="none" opacity="0.4"/>
+  <path d="M1700 300 Q1750 200 1800 300" stroke="#16a34a" stroke-width="3" fill="none" opacity="0.4"/>
+</svg>
+
